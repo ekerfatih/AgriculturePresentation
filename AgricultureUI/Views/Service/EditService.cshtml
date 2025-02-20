@@ -1,0 +1,23 @@
+@model Service
+
+<h1>Servis Güncelleme Sayfası</h1>
+
+<form asp-action="EditService" method="post">
+    <input type="hidden" asp-for="ServiceId">
+     <div class="mb-3">
+        <label asp-for="Title" class="form-label">Başlık</label>
+        <input asp-for="Title" class="form-control">
+        <span class="text-danger" asp-validation-for="Title"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label">Açıklama</label>
+        <input asp-for="Description" class="form-control">
+        <span class="text-danger" asp-validation-for="Description"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Image" class="form-label">Resim</label>
+        <input asp-for="Image" class="form-control">
+        <span class="text-danger" asp-validation-for="Image"></span>
+    </div>
+    <button type="submit" class="btn btn-outline-info">Değişiklikleri Kaydet</button>
+</form>

@@ -1,0 +1,27 @@
+@model ServiceAddViewModel
+<div class="col-12 grid-margin stretch-card">
+
+    <div class="card">
+        <div class="card-body mt-3">
+            <h1 class="card-title">Yeni Hizmet Girişi</h1>
+            <form class="forms-sample" asp-action="AddService" method="post">
+                <div class="form-group mb-3">
+                    <label asp-for="Title" class="form-label">Başlık</label>
+                    <input asp-for="Title" class="form-control" placeholder="Başlık..">
+                    <span class="text-danger" asp-validation-for="Title"></span>
+                </div>
+                <div class="form-group mb-3">
+                    <label asp-for="Image" class="form-label">Resim</label>
+                    <input asp-for="Image" class="form-control" placeholder="Resim">
+                    <span class="text-danger" asp-validation-for="Image"></span>
+                </div>
+                <div class="form-group mb-3">
+                    <label asp-for="Description" class="form-label">Açıklama</label>
+                    <textarea asp-for="Description" class="form-control" placeholder="Açıklama"> </textarea>
+                    <span class="text-danger" asp-validation-for="Description"></span>
+                </div>
+                <button type="submit" class="btn btn-outline-info">Kaydet</button>
+            </form>
+        </div>
+    </div>
+</div>

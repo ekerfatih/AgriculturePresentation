@@ -1,0 +1,40 @@
+@model List<Service>
+
+@{
+    Layout = "_AdminLayout";
+}
+
+
+<div class="card">
+    <div class="card-body mt-3">
+        <h1 class="mb-4">Hizmet Listesi</h1>
+        <div class="table-responsive pt-3 ">
+
+            <table class="table table-striped">
+                <tr>
+                    <th>#</th>
+                    <th>İsim</th>
+                    <th>Sil</th>
+                    <th>Güncelle</th>
+                </tr>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.ServiceId</td>
+                        <td>@item.Title</td>
+                        <td>
+                            <a class="btn btn-danger" asp-controller="Service" asp-action="DeleteService"
+                                asp-route-id="@item.ServiceId">Sil</a>
+                        </td>
+                        <td>
+                            <a class="btn btn-warning" asp-action="EditService" asp-route-id="@item.ServiceId">Güncelle</a>
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+        <a asp-controller="Service" asp-action="AddService" class="btn btn-outline-info mt-4">Yeni Hizmet Girişi</a>
+
+    </div>
+</div>

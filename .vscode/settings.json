@@ -1,0 +1,29 @@
+{
+    "workbench.colorCustomizations": {},
+    "folder-color.pathColors": [
+        {
+            "folderPath": "AgriculturePresentation\\BusinessLayer\\",
+            "color": "foldercolorizer.color_99ccff"
+        },
+        {
+            "folderPath": "AgriculturePresentation\\AgricultureUI\\",
+            "color": "foldercolorizer.color_00cc00"
+        },
+        {
+            "folderPath": "AgriculturePresentation\\DataAccessLayer\\",
+            "color": "foldercolorizer.color_cc6600"
+        },
+        {
+            "folderPath": "AgriculturePresentation\\EntityLayer\\",
+            "color": "foldercolorizer.color_ff0099"
+        },
+        {
+            "folderPath": "AgriculturePresentation\\AgricultureUI\\Views\\",
+            "color": "foldercolorizer.color_ffff00"
+        },
+        {
+            "folderPath": "AgriculturePresentation\\AgricultureUI\\Controllers\\",
+            "color": "foldercolorizer.color_cc0000"
+        }
+    ]
+}
