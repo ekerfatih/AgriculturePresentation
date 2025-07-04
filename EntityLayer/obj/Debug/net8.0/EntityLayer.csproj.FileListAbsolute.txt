@@ -12,3 +12,4 @@ C:\Users\fatih\Github Repo\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\
 C:\Users\fatih\Github Repo\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.pdb
 C:\Users\fatih\Github Repo\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.genruntimeconfig.cache
 C:\Users\fatih\Github Repo\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\ref\EntityLayer.dll
+C:\Users\fatih\Github Repo\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.sourcelink.json

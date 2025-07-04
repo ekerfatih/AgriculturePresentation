@@ -123,11 +123,6 @@ C:\Users\fatih\Github Repo\AgriculturePresentation\AgricultureUI\obj\Debug\net8.
 C:\Users\fatih\Github Repo\AgriculturePresentation\AgricultureUI\obj\Debug\net8.0\AgricultureUI.RazorAssemblyInfo.cs
 C:\Users\fatih\Github Repo\AgriculturePresentation\AgricultureUI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\fatih\Github Repo\AgriculturePresentation\AgricultureUI\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\fatih\Github Repo\AgriculturePresentation\AgricultureUI\obj\Debug\net8.0\staticwebassets\msbuild.AgricultureUI.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\fatih\Github Repo\AgriculturePresentation\AgricultureUI\obj\Debug\net8.0\staticwebassets\msbuild.build.AgricultureUI.props
-C:\Users\fatih\Github Repo\AgriculturePresentation\AgricultureUI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AgricultureUI.props
-C:\Users\fatih\Github Repo\AgriculturePresentation\AgricultureUI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AgricultureUI.props
-C:\Users\fatih\Github Repo\AgriculturePresentation\AgricultureUI\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\fatih\Github Repo\AgriculturePresentation\AgricultureUI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\fatih\Github Repo\AgriculturePresentation\AgricultureUI\obj\Debug\net8.0\scopedcss\bundle\AgricultureUI.styles.css
 C:\Users\fatih\Github Repo\AgriculturePresentation\AgricultureUI\obj\Debug\net8.0\scopedcss\projectbundle\AgricultureUI.bundle.scp.css
@@ -138,5 +133,7 @@ C:\Users\fatih\Github Repo\AgriculturePresentation\AgricultureUI\obj\Debug\net8.
 C:\Users\fatih\Github Repo\AgriculturePresentation\AgricultureUI\obj\Debug\net8.0\AgricultureUI.genruntimeconfig.cache
 C:\Users\fatih\Github Repo\AgriculturePresentation\AgricultureUI\obj\Debug\net8.0\ref\AgricultureUI.dll
 C:\Users\fatih\Github Repo\AgriculturePresentation\AgricultureUI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\fatih\Github Repo\AgriculturePresentation\AgricultureUI\obj\Debug\net8.0\staticwebassets\msbuild.AgricultureUI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 C:\Users\fatih\Github Repo\AgriculturePresentation\AgricultureUI\bin\Debug\net8.0\AgricultureUI.staticwebassets.endpoints.json
+C:\Users\fatih\Github Repo\AgriculturePresentation\AgricultureUI\obj\Debug\net8.0\AgricultureUI.sourcelink.json
+C:\Users\fatih\Github Repo\AgriculturePresentation\AgricultureUI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\fatih\Github Repo\AgriculturePresentation\AgricultureUI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

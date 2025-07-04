@@ -32,10 +32,9 @@
               "RelativeDocumentMoniker": "DataAccessLayer\\Concrete\\Repository\\GenericRepository.cs",
               "ToolTip": "C:\\Users\\fatih\\Github Repo\\AgriculturePresentation\\DataAccessLayer\\Concrete\\Repository\\GenericRepository.cs",
               "RelativeToolTip": "DataAccessLayer\\Concrete\\Repository\\GenericRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T00:20:31.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T00:20:31.35Z"
             },
             {
               "$type": "Document",
@@ -47,8 +46,7 @@
               "RelativeToolTip": "DataAccessLayer\\Abstract\\IServiceDal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T00:20:02.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-19T00:20:02.991Z"
             },
             {
               "$type": "Document",
@@ -56,9 +54,9 @@
               "Title": "AgricultureContext.cs",
               "DocumentMoniker": "C:\\Users\\fatih\\Github Repo\\AgriculturePresentation\\DataAccessLayer\\Context\\AgricultureContext.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Context\\AgricultureContext.cs",
-              "ToolTip": "C:\\Users\\fatih\\Github Repo\\AgriculturePresentation\\DataAccessLayer\\Context\\AgricultureContext.cs",
-              "RelativeToolTip": "DataAccessLayer\\Context\\AgricultureContext.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAACBAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\fatih\\Github Repo\\AgriculturePresentation\\DataAccessLayer\\Context\\AgricultureContext.cs*",
+              "RelativeToolTip": "DataAccessLayer\\Context\\AgricultureContext.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAIA4wBEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T00:16:32.656Z",
               "EditorCaption": ""
